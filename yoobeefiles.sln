@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.0.32112.339
+VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "yoobeefiles", "yoobeefiles\yoobeefiles.vcxproj", "{A6E1A1BE-8CC3-449C-A13D-C27718DDA53C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "yoobeefiles", "yoobeefiles.vcxproj", "{A6E1A1BE-8CC3-449C-A13D-C27718DDA53C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B9FC911F-BC2E-4B62-A386-777953D69050}
+		SolutionGuid = {785DC31A-71FB-4253-AF4A-C04041ECD5E8}
 	EndGlobalSection
 EndGlobal
